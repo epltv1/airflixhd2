@@ -150,7 +150,7 @@ export default Matches;
         },
     },
     "sources": {
-        "source": string,
+        "/api/matches/all": string,
         "id": string,
     }[]
       }
